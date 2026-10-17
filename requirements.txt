@@ -1,6 +1,5 @@
+
 streamlit
 mysql-connector-python
-pandas
-plotly
-python-dotenv
+langchain>=1.0.0
 langchain-groq
